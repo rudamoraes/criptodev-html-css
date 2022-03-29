@@ -9,6 +9,11 @@ body{
   margin: 0;
 }
 
+header {
+  background-color: #000;
+  color: #ff9b23;
+}
+
 h1, h2, h3, h4, h5, h6, p, span, strong {
   font-family: 'Roboto', sans-serif;
 }
@@ -80,4 +85,6 @@ footer{
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: #000;
+  color: #fff;
 }
